@@ -11,7 +11,7 @@ Current models in this repo:
 ----------------------------
 
 * Tools
-  * [AOTJ (Aspect of the Jerry sword) - 1.8 sword model](https://github.com/stshrewsburyDev/MinecraftModels/tools/AOTJ/)
+  * [AOTJ (Aspect of the Jerry sword) - 1.8 sword model](https://github.com/stshrewsburyDev/MinecraftModels/tree/master/tools/AOTJ/)
 
 
 Links:
