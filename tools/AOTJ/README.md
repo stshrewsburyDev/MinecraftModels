@@ -1,0 +1,19 @@
+# AOTJ (Aspect of the Jerry sword) model - 1.8 sword model
+### Created by Steven Shrewsbury (stshrewsburyDev)
+
+
+Preview:
+--------
+![AOTJ-0001](https://raw.githubusercontent.com/stshrewsburyDev/MinecraftModels/master/tools/AOTJ/preview/AOTJ-0001.png "AOTJ preview 0001")
+
+
+Credit:
+-------
+Credit would be appreciated but is not reqired.
+
+
+Links:
+------
+* [GitHub](https://github.com/stshrewsburyDev/)
+* [Twitter](https://twitter.com/stshrewsburyDev/)
+* [My website](https://stshrewsburydev.github.io/)
