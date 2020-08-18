@@ -4,7 +4,7 @@
 
 Credit:
 -------
-Credit would be appreciated but is not reqired.
+Credit is appreciated.
 
 
 Current models in this repo:
