@@ -1,6 +1,7 @@
 # MinecraftModels
 ### collection of some of my random Minecraft custom models.
 ##### Created by Steven Shrewsbury (stshrewsburyDev)
+###### I have plans to move this over to a actual website when I have time, if this does eventually happen it should be available at https://models.stshrewsbury.dev/
 
 Credit:
 -------
