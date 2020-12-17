@@ -6,6 +6,9 @@ Preview:
 --------
 ![AOTJ-0001](https://raw.githubusercontent.com/stshrewsburyDev/MinecraftModels/master/tools/AOTJ/preview/AOTJ-0001.png "AOTJ preview 0001")
 
+How to download:
+----------------
+Just select the file named `aotj.zip` and hit `download` on the preview.
 
 Credit:
 -------
