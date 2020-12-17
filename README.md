@@ -1,18 +1,12 @@
 # MinecraftModels
-### collection of some of my random Minecraft custom models.
+### A collection of some of my random Minecraft custom models.
 ##### Created by Steven Shrewsbury (stshrewsburyDev)
-###### I have plans to move this over to a actual website when I have time, if this does eventually happen it should be available at https://models.stshrewsbury.dev/
+
+**Note:** This repo now has its own website which you can see all the listed models on [here!](https://models.stshrewsbury.dev/ "Steven Shrewsbury - Minecraft models")
 
 Credit:
 -------
 Credit is appreciated.
-
-
-Current models in this repo:
-----------------------------
-
-* Tools
-  * [AOTJ (Aspect of the Jerry sword) - 1.8 sword model](https://github.com/stshrewsburyDev/MinecraftModels/tree/master/tools/AOTJ/)
 
 
 Links:
@@ -20,3 +14,4 @@ Links:
 * [GitHub](https://github.com/stshrewsburyDev/)
 * [Twitter](https://twitter.com/stshrewsburyDev/)
 * [My website](https://stshrewsburydev.github.io/)
+* [Steven Shrewsbury - Minecraft models](https://models.stshrewsbury.dev/)
