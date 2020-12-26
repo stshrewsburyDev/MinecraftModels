@@ -3,7 +3,7 @@
 
 Website page (with more info on model):
 -------------
-https://models.stshrewsbury.dev
+https://models.stshrewsbury.dev/2020/12/computer-monitor-block-model.html
 
 How to download:
 ----------------
@@ -19,4 +19,4 @@ Links:
 * [Twitter](https://twitter.com/stshrewsburyDev/)
 * [My website](https://stshrewsburydev.github.io/)
 * [Steven Shrewsbury - Minecraft models](https://models.stshrewsbury.dev/)
-a
+
