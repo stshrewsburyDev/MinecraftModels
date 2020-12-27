@@ -1,6 +1,6 @@
 {
     "_comment": "Created by Steven Shrewsbury (stshrewsburyDev)",
-	"textures": {
+    "textures": {
         "particle": "./frame",
         "screen": "./screen",
         "logo": "./logo",
